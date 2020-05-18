@@ -1,0 +1,4 @@
+1. masuk ke direktori folder ini via cmd/terminal
+2. Linux: pada cmd/terminal ketik "source environment/bin/activate" (tanpa tanda kutip)
+3. Windows: pada cmd/terminal ketik "environment/bin/activate" (tanpa tanda kutip)
+4. kemudian ketik di cmd/terminal "python <nama_file>" (tanpa tanda kutip)
